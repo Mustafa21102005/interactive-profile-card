@@ -14,7 +14,7 @@ A sleek, responsive, and animated profile card with a **flip hover effect**—bu
 
 Deployed with **GitHub Pages**:
 
-👉 [Live Demo](https://your-username.github.io/interactive-profile-card/)
+👉 [Live Demo](https://mustafa21102005.github.io/interactive-profile-card/)
 
 ## 🛠️ Technologies
 
