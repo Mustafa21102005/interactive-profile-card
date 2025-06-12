@@ -33,6 +33,6 @@ Full-stack developer passionate about building beautiful and user-friendly inter
 - 💻 [GitHub](https://github.com/Mustafa21102005)
 - 📷 [Instagram](https://www.instagram.com/rexl.05)
 - 💬 [WhatsApp](https://wa.me/966545117570)
-- 👾 [Reddit](https://www.reddit.com/user/Traditional-Ask-5460)
+- 👾 [Reddit](https://www.reddit.com/user/mustafa_azmi)
 
 Feel free to star ⭐ this repo if you find it useful!
